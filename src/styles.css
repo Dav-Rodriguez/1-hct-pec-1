@@ -374,6 +374,10 @@ text-decoration: none;
   animation: fadeInUp 1s ease-in-out;
 }
 
+.fadeInUp {
+  animation: fadeInUp 1s ease-in-out;
+}
+
 /************************************************/
 @media (min-width: 768px) {
 #img_lema {
