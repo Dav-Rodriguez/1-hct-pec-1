@@ -357,6 +357,23 @@ color: rgb(255, 255, 255);
 text-decoration: none;
 }
 
+@keyframes fadeInUp {
+  from {
+      opacity: 0;
+      transform: translateY(20px);
+  }
+  to {
+      opacity: 1;
+      transform: translateY(0);
+  }
+}
+
+.preview_video h2 {
+  font-size: 1.5em;
+  margin: 10px 0;
+  animation: fadeInUp 1s ease-in-out;
+}
+
 /************************************************/
 @media (min-width: 768px) {
 #img_lema {
