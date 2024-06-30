@@ -12,12 +12,21 @@
     <link rel="shortcut_icon" type="image/png" href="img/favicon.ico">
     <link rel="stylesheet" href="styles.css" />
     <script async type="module" src="app.js"></script>
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        var link = document.createElement("link");
+        link.href = "https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Noto+Serif:wght@600&display=swap";
+        link.rel = "stylesheet";
+        link.type = "text/css";
+        document.head.appendChild(link);
+      });
+    </script>
   </head>
   <body>
     <header>
       <div>
         <figure>
-          <img loading="lazy" src="img/logo.webp" alt="Easy Life Logo">
+          <img loading="lazy" src="img/logo.webp" alt="Easy Life Logo" width="200" height="100">
       </figure>
       </div>
     </header>
@@ -28,7 +37,7 @@
             <figure>
               <div class="video-fluid">
                 <a href="categoria.html" title="Ir al Categoría">
-                <img loading="lazy" class="fadeInUp" src="img/categoria.webp" alt="Easy Life categoría"></a>
+                <img class="fadeInUp" src="img/categoria.webp" alt="Easy Life categoría" width="800" height="450"></a>
               </div>
               <figcaption>
                   <h2><a href="categoria.html" title="Ingresa al blog" target="_blank">Categoría</a></h2>
@@ -39,7 +48,7 @@
           <div class="preview_video">
             <figure>
               <div class="video-fluid">
-                <a href="presentacion.html" title="Ir al Presentación"><img loading="lazy" class="fadeInUp" src="img/presentacion.webp" alt="Easy Life presentación"></a>
+                <a href="presentacion.html" title="Ir al Presentación"><img loading="lazy" class="fadeInUp" src="img/presentacion.webp" alt="Easy Life presentación" width="800" height="450"></a>
               </div>
               <figcaption>
                   <h2><a href="presentacion.html" title="Ir al Presentación">Presentación</a></h2>
@@ -50,7 +59,7 @@
           <div class="preview_video">
             <figure>
               <div class="video-fluid"> 
-                <a href="categoria.html" title="Ir al Categoría"></a><img loading="lazy" class="fadeInUp" src="img/enlaces.webp" alt="Easy Life Logo"></a>
+                <a href="categoria.html" title="Ir al Categoría"></a><img loading="lazy" class="fadeInUp" src="img/enlaces.webp" alt="Easy Life Logo" width="800" height="450"></a>
               </div>
               <figcaption>
                   <h2><a href="enlaces.html" title="Ir al Enlaces">Enlaces</a></h2>

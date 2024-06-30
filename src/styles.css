@@ -258,6 +258,9 @@ header img:hover {
 reglas para index.html
 *****************************/
 
+
+
+
 #main_index {
 padding-top: 0px;
 padding-bottom: 0px;
@@ -985,7 +988,7 @@ border: 0;
 .video-fluid::before {
 display: block;
 content: "";
-padding-top: 56.25%;
+padding-top: 10.25%;
 }
 
 /************************************************/
