@@ -6,11 +6,17 @@
     <meta name="Author" content="David Rodríguez"> 
     <meta name="Description" content="Bienvenido a la web de Easy Life"> 
     <title>Easy Life</title>
+    <!-- Precargar y cargar fuentes de manera asíncrona -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Noto+Serif:wght@600&display=swap" rel="stylesheet">
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Noto+Serif:wght@600&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+      <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Noto+Serif:wght@600&display=swap" rel="stylesheet">
+    </noscript>
     <link rel="shortcut_icon" type="image/png" href="img/favicon.ico">
-    <link rel="stylesheet" href="styles.css" />
+    <!-- Cargar CSS de manera asíncrona -->
+    <link rel="stylesheet" href="styles.css" media="print" onload="this.onload=null;this.media='all'">
+    <noscript><link rel="stylesheet" href="styles.css"></noscript>
     <script async type="module" src="app.js"></script>
     <script>
       document.addEventListener("DOMContentLoaded", function() {
@@ -26,7 +32,7 @@
     <header>
       <div>
         <figure>
-          <img loading="lazy" src="img/logo.webp" alt="Easy Life Logo" width="200" height="100">
+          <img loading="lazy" src="img/logo-opt.webp" alt="Easy Life Logo" width="200" height="100">
       </figure>
       </div>
     </header>
@@ -37,7 +43,7 @@
             <figure>
               <div class="video-fluid">
                 <a href="categoria.html" title="Ir al Categoría">
-                <img class="fadeInUp" src="img/categoria.webp" alt="Easy Life categoría" width="800" height="450"></a>
+                <img class="fadeInUp" src="img/categoria-opt.webp" alt="Easy Life categoría" width="800" height="450"></a>
               </div>
               <figcaption>
                   <h2><a href="categoria.html" title="Ingresa al blog" target="_blank">Categoría</a></h2>
@@ -48,7 +54,7 @@
           <div class="preview_video">
             <figure>
               <div class="video-fluid">
-                <a href="presentacion.html" title="Ir al Presentación"><img loading="lazy" class="fadeInUp" src="img/presentacion.webp" alt="Easy Life presentación" width="800" height="450"></a>
+                <a href="presentacion.html" title="Ir al Presentación"><img loading="lazy" class="fadeInUp" src="img/presentacion-opt.webp" alt="Easy Life presentación" width="800" height="450"></a>
               </div>
               <figcaption>
                   <h2><a href="presentacion.html" title="Ir al Presentación">Presentación</a></h2>
@@ -59,7 +65,7 @@
           <div class="preview_video">
             <figure>
               <div class="video-fluid"> 
-                <a href="categoria.html" title="Ir al Categoría"></a><img loading="lazy" class="fadeInUp" src="img/enlaces.webp" alt="Easy Life Logo" width="800" height="450"></a>
+                <a href="categoria.html" title="Ir al Categoría"></a><img loading="lazy" class="fadeInUp" src="img/enlaces-opt.webp" alt="Easy Life Logo" width="800" height="450"></a>
               </div>
               <figcaption>
                   <h2><a href="enlaces.html" title="Ir al Enlaces">Enlaces</a></h2>
