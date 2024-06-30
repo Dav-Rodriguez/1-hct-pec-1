@@ -35,7 +35,7 @@
 86C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\es-abstract\5\MinFromTime.js133588081305215168 0
 86C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\lightningcss\node\index.d.ts133588008604124361 0
 91C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\string.prototype.padend\README.md133588081288194958 0
-49C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist133642489445445412 1
+49C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist133642490311537226 1
 92C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\css-tree\lib\parser\SyntaxError.js133588008617481773 0
 105C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@swc\helpers\esm\_class_private_field_update.js133588008614108600 0
 55C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\.gitignore133641993616833965 0
@@ -122,7 +122,7 @@
 81C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\wrap-ansi-cjs\readme.md133588081284227265 0
 93C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\update-browserslist-db\package.json133588008599806838 0
 96C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@swc\helpers\_\_using_ctx\package.json133588008618890963 0
-63C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\src\categoria.html133642487157486981 0
+63C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\src\categoria.html133642490109115373 0
 119C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\glob\node_modules\minimatch\dist\esm\brace-expressions.js.map133588081289194385 0
 88C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\rimraf\dist\esm\opt-arg.js.map133588081289933981 0
 84C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\msgpackr\dist\index.min.js133588008603324810 0
@@ -1093,7 +1093,7 @@
 80C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\escalade\dist\index.js133588008597738041 0
 69C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\npm-run-all133588289553966493 1
 95C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\type-fest\source\set-return-type.d.ts133588008606582933 0
-75C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\easyjet-opt.3b4fc626.webp133642489437569955 0
+75C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\easyjet-opt.3b4fc626.webp133642490304788698 0
 81C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\es-abstract\2021\Day.js133588081295710643 0
 67C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\nth-check133588289555410006 1
 81C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\shebang-regex\readme.md133588081284197284 0
@@ -3977,7 +3977,7 @@
 99C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\es-abstract\2023\TypedArrayElementSize.js133588081315580983 0
 87C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\npm-run-all\bin\run-s\main.js133588081288244948 0
 111C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\css-select\node_modules\domhandler\lib\esm\index.d.ts133588008602895061 0
-71C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\index.0524edbe.js.map133642489445435425 0
+71C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\index.0524edbe.js.map133642490311527264 0
 87C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\npm-run-all\bin\run-p\help.js133588081287485372 0
 124C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\glob\node_modules\minimatch\dist\esm\assert-valid-pattern.d.ts.map133588081288534772 0
 82C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@parcel\watcher\index.js133588008598217756 0
@@ -4973,7 +4973,7 @@
 85C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\es-abstract\2019\MakeDay.js133588081304625502 0
 98C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\caniuse-lite\data\features\css-sticky.js133588008617141972 0
 78C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\has-bigints\index.js133588081284067345 0
-76C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\miembros-opt.1026530b.webp133642489437569955 0
+76C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\miembros-opt.1026530b.webp133642490304658772 0
 82C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\htmlnano\lib\helpers.mjs133588008612079785 0
 83C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\htmlnano\lib\htmlnano.cjs133588008602085525 0
 106C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\electron-to-chromium\full-chromium-versions.json133588008601825676 0
@@ -6014,7 +6014,7 @@
 95C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\es-abstract\2017\SetIntegrityLevel.js133588081309241884 0
 93C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\es-abstract\2023\IsStrictlyEqual.js133588081302886520 0
 90C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\es-abstract\2023\YearFromTime.js133588081317280001 0
-60C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\index.html133642489445255560 0
+60C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\index.html133642490311457300 0
 97C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\es-abstract\2023\IsValidIntegerIndex.js133588081303236300 0
 92C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\es-abstract\2023\IteratorToList.js133588081304045832 0
 91C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\es-abstract\2023\IteratorValue.js133588081304165764 0
@@ -6733,7 +6733,7 @@
 92C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\es-abstract\2020\StringToBigInt.js133588081310504207 0
 81C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\es-abstract\2020\tables133588289462301253 1
 96C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\es-abstract\2020\TestIntegrityLevel.js133588081310953654 0
-72C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\logo-opt.6b55511b.webp133642489437969747 0
+72C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\logo-opt.6b55511b.webp133642490305988036 0
 86C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\es-abstract\2020\ToUint32.js133588081314591552 0
 98C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\es-abstract\2018\NewPromiseCapability.js133588081305794828 0
 76C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\color-name\LICENSE133588008598177773 0
@@ -8196,7 +8196,7 @@
 100C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\css-select\node_modules\domhandler\lib\esm133588289390959567 1
 108C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\caniuse-lite\data\features\background-clip-text.js133588008608961564 0
 111C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\css-select\node_modules\domhandler\lib\index.d.ts.map133588008601785700 0
-71C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\index.9b82a4ef.js.map133642489445435425 0
+71C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\index.9b82a4ef.js.map133642490311527264 0
 106C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\css-select\node_modules\domhandler\lib\node.d.ts133588008603744574 0
 110C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\css-select\node_modules\domhandler\lib\node.d.ts.map133588008602325394 0
 95C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@swc\helpers\_\_identity\package.json133588008617671660 0
@@ -8386,7 +8386,7 @@
 89C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\caniuse-lite\data\regions\FI.js133588008618936179 0
 121C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\_transforms.js133588008600626370 0
 89C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\caniuse-lite\data\regions\FO.js133588008619180792 0
-63C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\entradaC.html133642489445255560 0
+63C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\entradaC.html133642490311457300 0
 89C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\caniuse-lite\data\regions\GA.js133588008619470628 0
 107C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\caniuse-lite\data\features\css-read-only-write.js133588008616792167 0
 89C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\caniuse-lite\data\regions\GB.js133588008619500616 0
@@ -8724,7 +8724,7 @@
 96C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\caniuse-lite\data\features\template.js133588008625177349 0
 101C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\caniuse-lite\data\features\text-emphasis.js133588008625237307 0
 101C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\caniuse-lite\data\features\text-overflow.js133588008625247299 0
-67C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\presentacion.html133642489445255560 0
+67C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\presentacion.html133642490311457300 0
 88C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@parcel\cache\lib\constants.js133588008597807988 0
 104C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\caniuse-lite\data\features\text-size-adjust.js133588008625267295 0
 99C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\caniuse-lite\data\features\textencoder.js133588008625307261 0
@@ -9009,7 +9009,7 @@
 104C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@swc\helpers\esm\_object_without_properties.js133588008615307905 0
 126C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\minifyStyles.js133588008606453007 0
 95C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@swc\helpers\esm\_set_prototype_of.js133588008615367879 0
-68C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\index.c6ee4e39.css133642489445275524 0
+68C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\index.c6ee4e39.css133642490311467264 0
 94C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@swc\helpers\esm\_sliced_to_array.js133588008615467819 0
 129C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeEmptyText.js133588008608741695 0
 102C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@swc\helpers\esm\_tagged_template_literal.js133588008615527786 0
@@ -9515,7 +9515,7 @@
 94C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@parcel\package-manager\src\types.js133588008605993275 0
 94C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@parcel\package-manager\src\utils.js133588008606133192 0
 112C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@parcel\package-manager\src\validateModuleSpecifier.js133588008606233140 0
-64C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\categoria.html133642489445215561 0
+64C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\categoria.html133642490311457300 0
 93C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@parcel\package-manager\src\Yarn.js133588008606433031 0
 94C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@parcel\package-manager\lib\index.js133588008600726319 0
 98C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\@parcel\package-manager\lib\index.js.map133588008608451862 0
@@ -10294,16 +10294,16 @@
 85C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\.bin\update-browserslist-db133588008628505423 0
 89C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\.bin\update-browserslist-db.cmd133588008628505423 0
 72C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\node_modules\.bin\which.cmd133588081317699766 0
-77C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\categoria-opt.37ff4bce.webp133642489437989773 0
-75C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\enlaces-opt.c5ccd8d4.webp133642489437579982 0
-62C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\enlaces.html133642489445265538 0
-63C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\entradaA.html133642489445255560 0
-63C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\entradaB.html133642489445245542 0
-70C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\favicon.045eddb9.ico133642489437629982 0
-67C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\index.0524edbe.js133642489445285507 0
-67C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\index.9b82a4ef.js133642489445285507 0
-72C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\index.c6ee4e39.css.map133642489445435425 0
-86C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\logo-no-background-opt.bf72d5df.webp133642489437979734 0
-80C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\presentacion-opt.3c0c9a95.webp133642489437589981 0
-75C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\sangria-opt.e5b394ea.webp133642489437499992 0
-70C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\sqlogo.420cf403.webp133642489437569955 0
+77C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\categoria-opt.37ff4bce.webp133642490305998022 0
+75C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\enlaces-opt.c5ccd8d4.webp133642490304808691 0
+62C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\enlaces.html133642490311457300 0
+63C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\entradaA.html133642490311457300 0
+63C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\entradaB.html133642490311457300 0
+70C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\favicon.045eddb9.ico133642490304818692 0
+67C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\index.0524edbe.js133642490311467264 0
+67C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\index.9b82a4ef.js133642490311467264 0
+72C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\index.c6ee4e39.css.map133642490311527264 0
+86C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\logo-no-background-opt.bf72d5df.webp133642490305978037 0
+80C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\presentacion-opt.3c0c9a95.webp133642490304798722 0
+75C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\sangria-opt.e5b394ea.webp133642490304778714 0
+70C:\Users\DAVID\Desktop\uoc-hct-i\1-hct-pec-1\dist\sqlogo.420cf403.webp133642490304778714 0
